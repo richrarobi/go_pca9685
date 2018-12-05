@@ -15,3 +15,5 @@ NBBB I haven't gone into the depths of PWM - The first attempts managed to turn 
 (there was a sound of the end stop being destroyed in at least one of them)
 Amazingly they still work now that the software is under control.
 
+Now where were those Ping-Pong balls to make the eyes ....
+RichR
